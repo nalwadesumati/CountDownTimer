@@ -5,7 +5,7 @@
 }
 body{
 	background-color:black;
-	color:#17d4fe;
+	color:#ff0000;
 	
 }
 .digitalclock{
@@ -15,4 +15,5 @@ body{
 	justify-content:center;
 	align-items:center;
 	height:100vh;
+
 }
